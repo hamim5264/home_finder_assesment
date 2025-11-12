@@ -28,6 +28,10 @@ Built as part of the assessment submission for the **Flutter Developer role** �
 
 ---
 
+### Screenshots
+<img width="1080" height="2400" alt="screenshot-1762948707590" src="https://github.com/user-attachments/assets/a7503feb-181a-4225-9d98-69a19cb69f9c" />
+<img width="1080" height="2400" alt="screenshot-1762948722196" src="https://github.com/user-attachments/assets/59444c91-c03e-48b5-b554-bce4d714f630" />
+
 
 ### 📂 Explanation
 - **core/** → design system (colors, typography, utilities)
